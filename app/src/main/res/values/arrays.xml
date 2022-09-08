@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="people">
+        <item>James Dashner</item>
+        <item>Rick Riordan</item>
+        <item>Ally Carter</item>
+        <item>Dan Howell</item>
+        <item>John Wyndham,</item>
+        <item>Christopher Paolini</item>
+        <item>Dan Brown</item>
+    </string-array>
+
+    <string-array name="quotes">
+        <item>You are the shuckiest shuck faced shuck in the world</item>
+        <item>Her name badge read: Hello My name is DIE, DEMIGOD SCUM</item>
+        <item>Insane means fewer cameras</item>
+        <item>I am about as intimidating as a butterfly.</item>
+        <item>Some quotations, said Zellaby, are greatly improved by lack of context.</item>
+        <item>Never ask an elf for help; they might decide your better off dead, eh</item>
+        <item>Act first, explain later.</item>
+    </string-array>
+
+    <array name="avatars">
+        <item>@drawable/avatar1</item>
+        <item>@drawable/avatar2</item>
+        <item>@drawable/avatar3</item>
+        <item>@drawable/avatar4</item>
+        <item>@drawable/avatar5</item>
+        <item>@drawable/avatar6</item>
+        <item>@drawable/avatar7</item>
+    </array>
+</resources>
