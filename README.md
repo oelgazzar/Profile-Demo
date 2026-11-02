@@ -17,15 +17,8 @@ A simple Android profile application built with **Kotlin** and the traditional *
 
 Add your app screenshots to a `screenshots/` directory, then update the paths below:
 
-<p align="center">
-  <img src="screenshots/home.png" width="240" alt="Home screen" />
-  <img src="screenshots/profile.png" width="240" alt="Profile screen" />
-</p>
+<img width="1080" height="2424" alt="profile" src="https://github.com/user-attachments/assets/15111f77-70a7-4a3f-99fc-6021859efdfa" />
 
-<p align="center">
-  <img src="screenshots/timeline.png" width="240" alt="Timeline screen" />
-  <img src="screenshots/settings.png" width="240" alt="Settings screen" />
-</p>
 
 ## 🛠️ Built With
 
